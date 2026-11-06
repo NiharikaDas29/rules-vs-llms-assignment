@@ -1,0 +1,278 @@
+{
+  "rules": {
+    "recall": 1.0,
+    "false_positive_rate": 1.0,
+    "by_type": {
+      "missing_values": {
+        "recall": 1.0,
+        "false_positive_rate": 0.0
+      },
+      "type_inconsistency": {
+        "recall": 1.0,
+        "false_positive_rate": 0.0
+      },
+      "date_problem": {
+        "recall": 1.0,
+        "false_positive_rate": 0.0
+      },
+      "invalid_coordinates": {
+        "recall": 1.0,
+        "false_positive_rate": 0.0
+      },
+      "duplicate": {
+        "recall": 1.0,
+        "false_positive_rate": 0.0
+      },
+      "near_duplicate": {
+        "recall": 0.5,
+        "false_positive_rate": 1.0
+      },
+      "temporal_inconsistency": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "geographic_inconsistency": {
+        "recall": 0.0,
+        "false_positive_rate": 0.5
+      },
+      "semantic_contradiction": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "privacy_issue": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "renamed_column": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "coordinate_swapped": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "zip_borough": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "complaint_descriptor": {
+        "recall": 1.0,
+        "false_positive_rate": 0.0
+      },
+      "resolution_status": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      }
+    },
+    "seconds": 0.026136200001928955,
+    "rows": 6,
+    "throughput_rows_per_second": 229.5666546612429
+  },
+  "statistics": {
+    "recall": 0.0,
+    "false_positive_rate": 0.0,
+    "by_type": {
+      "missing_values": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "type_inconsistency": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "date_problem": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "invalid_coordinates": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "duplicate": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "near_duplicate": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "temporal_inconsistency": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "geographic_inconsistency": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "semantic_contradiction": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "privacy_issue": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "renamed_column": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "coordinate_swapped": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "zip_borough": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "complaint_descriptor": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "resolution_status": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      }
+    },
+    "seconds": 0.008294400002341717,
+    "rows": 6,
+    "throughput_rows_per_second": 723.3796294254014
+  },
+  "semantic": {
+    "recall": 0.0,
+    "false_positive_rate": 0.0,
+    "by_type": {
+      "missing_values": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "type_inconsistency": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "date_problem": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "invalid_coordinates": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "duplicate": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "near_duplicate": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "temporal_inconsistency": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "geographic_inconsistency": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "semantic_contradiction": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "privacy_issue": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "renamed_column": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "coordinate_swapped": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "zip_borough": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "complaint_descriptor": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "resolution_status": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      }
+    },
+    "seconds": 0.011349600012181327,
+    "rows": 6,
+    "throughput_rows_per_second": 528.6529916085417
+  },
+  "hybrid": {
+    "recall": 1.0,
+    "false_positive_rate": 1.0,
+    "by_type": {
+      "missing_values": {
+        "recall": 1.0,
+        "false_positive_rate": 0.0
+      },
+      "type_inconsistency": {
+        "recall": 1.0,
+        "false_positive_rate": 0.0
+      },
+      "date_problem": {
+        "recall": 1.0,
+        "false_positive_rate": 0.0
+      },
+      "invalid_coordinates": {
+        "recall": 1.0,
+        "false_positive_rate": 0.0
+      },
+      "duplicate": {
+        "recall": 1.0,
+        "false_positive_rate": 0.0
+      },
+      "near_duplicate": {
+        "recall": 0.5,
+        "false_positive_rate": 1.0
+      },
+      "temporal_inconsistency": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "geographic_inconsistency": {
+        "recall": 0.0,
+        "false_positive_rate": 0.5
+      },
+      "semantic_contradiction": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "privacy_issue": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "renamed_column": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "coordinate_swapped": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "zip_borough": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      },
+      "complaint_descriptor": {
+        "recall": 1.0,
+        "false_positive_rate": 0.0
+      },
+      "resolution_status": {
+        "recall": 0.0,
+        "false_positive_rate": 0.0
+      }
+    },
+    "seconds": 0.03696339999441989,
+    "rows": 6,
+    "throughput_rows_per_second": 162.32273007639392
+  }
+}
